@@ -6,4 +6,4 @@
 
 
 ## My Course Certificate
-![](https://d3njjcbhbojbot.cloudfront.net/web/images/signature/template-course-cert-small.png)
+![](https://www.coursera.org/account/accomplishments/certificate/CQP4H58ZZYVH)
