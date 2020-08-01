@@ -8,3 +8,4 @@
 ## My Course Certificate
 
 
+![](https://d3njjcbhbojbot.cloudfront.net/web/images/signature/template-course-cert-small.png)
