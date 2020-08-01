@@ -8,4 +8,4 @@
 ## My Course Certificate
 
 
-![GitHub Logo](/Certificate/Coursera Algorithmic Toolbox-1.jpg)
+![](./Certificate/Coursera Algorithmic Toolbox-1.jpg)
