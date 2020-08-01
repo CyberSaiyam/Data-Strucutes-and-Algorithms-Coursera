@@ -6,4 +6,4 @@
 
 
 ## My Course Certificate
-![](https://coursera.org/share/e23869fe6f19f3c3804ae152fc010619.png)
+![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
